@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/a/alham.febian/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/AE9C113E 2017-09-12 [expires: 2018-03-11]
+uid                  Alham Febian Rinaldy (wow) <alham.febian@ui.ac.id>
+sub   4096R/B21F57D0 2017-09-12 [expires: 2018-03-11]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2018-09-07]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2018-09-07]
+
