@@ -1,0 +1,19 @@
+total 104
+drwxr-xr-x  2 alham.febian StafCS 4096 Sep 12 21:32 .
+drwxr-xr-x 18 alham.febian StafCS 4096 Sep 12 21:14 ..
+-rw-r--r--  1 alham.febian StafCS 1550 Sep 12 21:26 00-toc-txt
+-rw-r--r--  1 alham.febian StafCS 3108 Sep 12 21:27 01-public-ostream.txt
+-rw-r--r--  1 alham.febian StafCS    0 Sep 12 21:32 02-ls-al.txt
+-rw-r--r--  1 alham.febian StafCS  299 Sep 12 21:28 03-list-keys1.txt
+-rw-r--r--  1 alham.febian StafCS  465 Sep 12 21:28 04-list-keys2.txt
+-rwxr-xr-x  1 alham.febian StafCS 8400 Sep 12 20:54 exercise
+-rw-r--r--  1 alham.febian StafCS  359 Sep 12 20:54 exercise.c
+-rwxr-xr-x  1 alham.febian StafCS 8336 Sep 12 10:23 hello
+-rwxr-xr-x  1 alham.febian StafCS   75 Sep 12 10:22 hello.c
+-rwxr-xr-x  1 alham.febian StafCS 8384 Sep 12 20:21 loop
+-rw-r--r--  1 alham.febian StafCS  300 Sep 12 20:21 loop.c
+-rw-r--r--  1 alham.febian StafCS  746 Sep 12 21:30 SHA1SUM
+-rw-r--r--  1 alham.febian StafCS  819 Sep 12 21:29 SHA1SUM.asc
+-rwxr-xr-x  1 alham.febian StafCS 8496 Sep 12 10:31 status
+-rw-r--r--  1 alham.febian StafCS  144 Sep 12 10:31 status.c
+-rw-r--r--  1 alham.febian StafCS 5959 Sep 12 21:05 work02.tbj.gpg
