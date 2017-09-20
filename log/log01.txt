@@ -1,21 +1,21 @@
-w01-170214-10-LR-Hak Kekayaan Intelektual, From: Lecturer
-w01-170214-10-LR-Hak Kekayaan Intelektual dan CLI, From: Lecturer
-w01-170214-11-LR-Command Line Interface, From: Lecturer
-w01-170214-11-DS-Diskusi sehabis kelas
-w01-170215-14-PS-Mengerjakan Task Week01
-w01-170215-15-PS-Melanjutkan mengerjakan Task Week01
-w01-170215-15-DS-Diskusi Task Week01
-w01-170215-16-PS-Melanjutkan mengerjakan Task Week01
-w01-170215-17-PS-Melanjutkan mengerjakan Task Week01
-w01-170216-10-LR-Materi Scripting, From: Lecturer
-w01-170216-10-LR-Materi Scripting, From: Lecturer
-w01-170216-11-LR-Materi Scripting, From: Lecturer
-w01-170216-11-DS-Diskusi pasca kelas
-w01-170217-19-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
-w01-170217-19-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
-w01-170217-20-PS-Mencoba scripting sederhana
-w01-170218-09-DS-Diskusi github dan scripting
-w01-170218-09-DS-Diskusi github dan scripting
-w01-170218-12-DS-Diskusi tentang scripting
-w01-170218-12-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
-w01-170218-13-LR-Menonton video tentang scripting, From: https://www.youtube.com/watch?v=eiBVlxxu3so
+w01-170905-16-LR-Hak Kekayaan Intelektual, From: Lecturer
+w01-170905-16-LR-Hak Kekayaan Intelektual dan CLI, From: Lecturer
+w01-170905-18-LR-Command Line Interface, From: Lecturer
+w01-170905-18-DS-Diskusi sehabis kelas
+w01-170906-19-PS-Mengerjakan Task Week01
+w01-170906-19-PS-Melanjutkan mengerjakan Task Week01
+w01-170906-20-DS-Diskusi Task Week01
+w01-170906-20-PS-Melanjutkan mengerjakan Task Week01
+w01-170906-21-PS-Melanjutkan mengerjakan Task Week01
+w01-170907-16-LR-Materi Scripting, From: Lecturer
+w01-170907-16-LR-Materi Scripting, From: Lecturer
+w01-170907-17-LR-Materi Scripting, From: Lecturer
+w01-170907-17-DS-Diskusi pasca kelas
+w01-170908-19-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
+w01-170908-19-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
+w01-170908-20-PS-Mencoba scripting sederhana
+w01-170909-09-DS-Diskusi github dan scripting
+w01-170909-09-DS-Diskusi github dan scripting
+w01-170909-12-DS-Diskusi tentang scripting
+w01-170909-12-LR-Membaca materi Scripting, From: Slide Bahan Ajar Lama
+w01-170909-13-LR-Menonton video tentang scripting, From: https://www.youtube.com/watch?v=eiBVlxxu3so
